@@ -1,0 +1,8 @@
+{
+    "tado_username": "me@example.com",
+    "tado_password": "my-password",
+    "tado_client_id": "tado-web-app",
+	"tado_client_secret": "wZaRN7rpjn3FoNyF5IFuxg9uMzYJcvOoQ8QWiIqS3hfk6gLhVlG57j5YNoZL2Rtc",
+    "interval": 60,
+    "influxdb_dsn" : "http://username:password@uri:port/write?db=database_name"
+}
